@@ -15,4 +15,7 @@ Project is created with:
 - Node.js
 - JWT Authentication
 
+## Example Screenshots
+
+![1](https://github.com/user-attachments/assets/35f11a3e-1bc1-4a84-964b-d60fb9ec5289)
 
